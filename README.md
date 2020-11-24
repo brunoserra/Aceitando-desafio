@@ -1,2 +1,2 @@
 # Aceitando-desafio
- criando o site sobre covid19
+ Criando site com html e css sobre a covid19
