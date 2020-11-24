@@ -1,2 +1,2 @@
 # Aceitando-desafio
- frianco o site sobre a covide 19
+ criando o site sobre covid19
