@@ -3,7 +3,7 @@
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     
-    h1 {
+    h1,header {
         font-size: 40pt;
         color: rgba(255, 238, 0, 0.801);
     }
