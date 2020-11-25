@@ -113,10 +113,10 @@ h2 {
 /*cadastro do email*/
 
 #receber {
-    background-color: rgb(0, 109, 128);
-    width: 300px;
+    background-image: url(../img/connection-4884862_1920.jpg);
+    width: 450px;
     border: 15px solid rgb(128, 119, 0);
     margin-left: 200px;
-    margin-top: -150px;
+    margin-top: -350px;
     padding: 10px;
 }
