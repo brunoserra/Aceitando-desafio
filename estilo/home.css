@@ -161,3 +161,7 @@ h2 {
     font-size: 15px;
     box-shadow: white 4px 4px 6px;
 }
+
+.social a {
+    color: black;
+}
