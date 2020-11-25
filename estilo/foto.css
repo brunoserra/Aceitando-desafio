@@ -1,306 +1,341 @@
-hgroup.titulos h1,h2,h3{
-	width: 300px;
-	position: absolute;
-	color:#800000;
-	box-shadow:2px 2px 20px red;
-	text-align: center;
-	font-family: 'MedievalSharp', cursive;
-}
-h1#t1{
-	top: 60px;
-	margin-left: 100px;
-	font-size: 22pt;
-}
-hgroup.titulos h1:hover{
-	color: #f2f2f2;
-	background: url(../src/eddieeye.jpg);
-	transition: 0.80s;
-
-}
-h2#t2{
-	top: 120px;
-	margin-left: 160px;
-	font-size: 18pt;
-}
-hgroup.titulos h2:hover{
-	color:#f2f2f2;
-	background: url(../src/eddieeye.jpg);
-	transition: 0.80s;#262626;
-	
-}
-h3#t3{
-	top: 180px;
-	margin-left: 260px;
-	font-size: 16pt;
-}
-hgroup.titulos h3:hover{
-	color:#f2f2f2;;
-	background: url(../src/eddieeye.jpg);
-	transition: 0.80s;
+header.titulos h1,
+h2,
+h3 {
+    width: 300px;
+    position: absolute;
+    color: #800000;
+    box-shadow: 2px 2px 20px red;
+    text-align: center;
+    font-family: 'MedievalSharp', cursive;
 }
 
-figure.foto img#icone{
-	position: relative;
-	float: right;
-	top: 50px;
-	margin-right: 60px;
+h1#t1 {
+    top: 60px;
+    margin-left: 100px;
+    font-size: 22pt;
 }
+
+header.titulos h1:hover {
+    color: #f2f2f2;
+    background: url(../src/eddieeye.jpg);
+    transition: 0.80s;
+}
+
+h2#t2 {
+    top: 120px;
+    margin-left: 160px;
+    font-size: 18pt;
+}
+
+header.titulos h2:hover {
+    color: #f2f2f2;
+    background: url(../src/eddieeye.jpg);
+    transition: 0.80s;
+    #262626;
+}
+
+h3#t3 {
+    top: 180px;
+    margin-left: 260px;
+    font-size: 16pt;
+}
+
+header.titulos h3:hover {
+    color: #f2f2f2;
+    ;
+    background: url(../src/eddieeye.jpg);
+    transition: 0.80s;
+}
+
 figure.foto img#icone {
-		width: 300px;
-		height: 200px;
-		border: 4px solid red;
+    position: relative;
+    float: right;
+    top: 50px;
+    margin-right: 60px;
 }
-figure.foto img#foto1{
-	position: relative;
-	float: left;
-	top: 260px;
-	margin-left: 20px;
+
+figure.foto img#icone {
+    width: 300px;
+    height: 200px;
+    border: 4px solid red;
 }
+
 figure.foto img#foto1 {
-		width: 500px;
-		height: 300px;
-		border: 4px solid red;
+    position: relative;
+    float: left;
+    top: 260px;
+    margin-left: 20px;
 }
 
-video.filme{
-	position: absolute;
-	width: 500px;
-	height: 300px;
-	margin-top: 260px;
-	margin-left: 20px;
-	margin-right: 50px;
+figure.foto img#foto1 {
+    width: 500px;
+    height: 300px;
+    border: 4px solid red;
 }
 
-article.artigo{
-	width: 600px;
-	height: 400px;
-	top: 450px;
-	margin-left: 600px;
+video.filme {
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    margin-top: 260px;
+    margin-left: 20px;
+    margin-right: 50px;
 }
-article.artigo p{
-	font-size: 15pt;
-	color: red;
-	text-align:justify;
-	padding: 20px;
 
+article.artigo {
+    width: 600px;
+    height: 400px;
+    top: 450px;
+    margin-left: 600px;
 }
-article.artigo{
-	position: absolute;
-	border: 4px solid red;
-	 
-}
-.artigo h1{
-	font-size: 15pt;
-	color: red;
-	margin-left: 100px;
-}
-article.artigo-ed{
-	width: 600px;
-	height: 300px;
-	top: 450px;
-	margin-left: 550px;
-}
-article.artigo-ed p{
-	font-size: 20pt;
-	color: red;
-	text-align:justify;
-	padding: 20px;
-	margin-top: 20px;
 
+article.artigo p {
+    font-size: 15pt;
+    color: red;
+    text-align: justify;
+    padding: 20px;
 }
-article.artigo-ed{
-	position: absolute;
-	border: 4px solid red;
-	 
+
+article.artigo {
+    position: absolute;
+    border: 4px solid red;
 }
-.artigo-ed h1{
-	font-size: 15pt;
-	color: red;
-	margin-left: 100px;
+
+.artigo h1 {
+    font-size: 15pt;
+    color: red;
+    margin-left: 100px;
 }
+
+article.artigo-ed {
+    width: 600px;
+    height: 300px;
+    top: 450px;
+    margin-left: 550px;
+}
+
+article.artigo-ed p {
+    font-size: 20pt;
+    color: red;
+    text-align: justify;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+article.artigo-ed {
+    position: absolute;
+    border: 4px solid red;
+}
+
+.artigo-ed h1 {
+    font-size: 15pt;
+    color: red;
+    margin-left: 100px;
+}
+
 article.artigot1 {
-	width: 300;
-	height: 300px;
-	top: 900px;
-	margin-left: 800px;
-	background-color:#737373;
-		
-}
-article.artigot1{
-	border: 4px solid #910808;
-	position: absolute;
-	padding: 10px;
-}
-.artigot1 p{
-	color: #990000;
-	font-size: 15pt;
-	position: relative;
-}
-.artigot1 h1{
-	color: 	#990000;
-	margin-left: 80px;
-	position: relative;
-	font-size: 25pt;
+    width: 300;
+    height: 300px;
+    top: 900px;
+    margin-left: 800px;
+    background-color: #737373;
 }
 
-figure.foto img#foto2{
-	position: relative;
-	float: left;
-	top: 440px;
-	margin-left:160px;
+article.artigot1 {
+    border: 4px solid #910808;
+    position: absolute;
+    padding: 10px;
 }
+
+.artigot1 p {
+    color: #990000;
+    font-size: 15pt;
+    position: relative;
+}
+
+.artigot1 h1 {
+    color: #990000;
+    margin-left: 80px;
+    position: relative;
+    font-size: 25pt;
+}
+
 figure.foto img#foto2 {
-		width: 300px;
-		height: 400px;
-		border: 4px solid #910808;
+    position: relative;
+    float: left;
+    top: 440px;
+    margin-left: 160px;
 }
-article.artigo1{
-	width: 500px;
-	height: 300px;
-	top: 360px;
-	margin-left: 650px;
-}
-article.artigo1 p{
-	font-size: 15pt;
-	color: #910808;
-	text-align:justify;
-	padding: 20px;
 
+figure.foto img#foto2 {
+    width: 300px;
+    height: 400px;
+    border: 4px solid #910808;
 }
-article.artigo1{
-	position: absolute;
-	border: 4px solid #910808;
-	 
+
+article.artigo1 {
+    width: 500px;
+    height: 300px;
+    top: 360px;
+    margin-left: 650px;
 }
-figure.foto img#foto3{
-	position: relative;
-	float: left;
-	top: 450px;
-	margin-left: 100px;
+
+article.artigo1 p {
+    font-size: 15pt;
+    color: #910808;
+    text-align: justify;
+    padding: 20px;
 }
+
+article.artigo1 {
+    position: absolute;
+    border: 4px solid #910808;
+}
+
 figure.foto img#foto3 {
-		width: 300px;
-		height: 400px;
-		border: 4px solid #910808;
+    position: relative;
+    float: left;
+    top: 450px;
+    margin-left: 100px;
 }
-article.artigo2{
-	width: 500px;
-	height: 300px;
-	top: 740px;
-	margin-left: 60px;
-}
-article.artigo2 p{
-	font-size: 15pt;
-	color: #910808;
-	text-align:justify;
-	padding: 20px;
 
+figure.foto img#foto3 {
+    width: 300px;
+    height: 400px;
+    border: 4px solid #910808;
 }
-article.artigo2{
-	position: absolute;
-	border: 4px solid #910808;
-	 
+
+article.artigo2 {
+    width: 500px;
+    height: 300px;
+    top: 740px;
+    margin-left: 60px;
 }
-figure.foto img#foto4{
-	position: relative;
-	float: left;
-	top: 920px;
-	margin-left: 300px;
+
+article.artigo2 p {
+    font-size: 15pt;
+    color: #910808;
+    text-align: justify;
+    padding: 20px;
 }
+
+article.artigo2 {
+    position: absolute;
+    border: 4px solid #910808;
+}
+
 figure.foto img#foto4 {
-		width: 300px;
-		height: 400px;
-		border: 4px solid #910808;
-}
-article.artigo3{
-	width: 500px;
-	height: 300px;
-	top: 1210px;
-	margin-left: 650px;
-}
-article.artigo3 p{
-	font-size: 15pt;
-	color: #910808;
-	text-align:justify;
-	padding: 20px;
-
-}
-article.artigo3{
-	position: absolute;
-	border: 4px solid #910808;
-	 
-}
-article.artigo4{
-	width: 500px;
-	height: 300px;
-	top: 1650px;
-	margin-left: 50px;
-}
-article.artigo4 p{
-	font-size: 15pt;
-	color: #910808;
-	text-align:justify;
-	padding: 20px;
-
-}
-article.artigo4{
-	position: absolute;
-	border: 4px solid #910808;
-	 
-}
-figure.foto img#ft1{
-	position: relative;
-	float: left;
-	top: 600px;
-	margin-left:500px;
-}
-figure.foto img#ft1{
-		width: 600px;
-		height: 400px;
-		border: 4px solid #910808;
-}
-figure.foto img#ft2{
-	position: relative;
-	float: left;
-	top: -50px;
-	margin-left:20px;
-}
-figure.foto img#ft2{
-		width: 400px;
-		height: 300px;
-		border: 4px solid #910808;
+    position: relative;
+    float: left;
+    top: 920px;
+    margin-left: 300px;
 }
 
-figure.foto img#ft3{
-	position: relative;
-	float: left;
-	top: 320px;
-	margin-left:-400px;
+figure.foto img#foto4 {
+    width: 300px;
+    height: 400px;
+    border: 4px solid #910808;
 }
-figure.foto img#ft3{
-		width: 400px;
-		height: 300px;
-		border: 4px solid #910808;
+
+article.artigo3 {
+    width: 500px;
+    height: 300px;
+    top: 1210px;
+    margin-left: 650px;
 }
-figure.foto img#ft4{
-	position: absolute;
-	float: left;
-	top: 1500px;
-	margin-left:-600px;
+
+article.artigo3 p {
+    font-size: 15pt;
+    color: #910808;
+    text-align: justify;
+    padding: 20px;
 }
-figure.foto img#ft4{
-		width: 600px;
-		height: 400px;
-		border: 4px solid #910808;
+
+article.artigo3 {
+    position: absolute;
+    border: 4px solid #910808;
 }
-figure.foto img#ft5{
-	position: absolute;
-	float: left;
-	top: 1450px;
-	margin-left:-1150px;
+
+article.artigo4 {
+    width: 500px;
+    height: 300px;
+    top: 1650px;
+    margin-left: 50px;
 }
-figure.foto img#ft5{
-		width: 500px;
-		height: 400px;
-		border: 4px solid #910808;
+
+article.artigo4 p {
+    font-size: 15pt;
+    color: #910808;
+    text-align: justify;
+    padding: 20px;
+}
+
+article.artigo4 {
+    position: absolute;
+    border: 4px solid #910808;
+}
+
+figure.foto img#ft1 {
+    position: relative;
+    float: left;
+    top: 600px;
+    margin-left: 500px;
+}
+
+figure.foto img#ft1 {
+    width: 600px;
+    height: 400px;
+    border: 4px solid #910808;
+}
+
+figure.foto img#ft2 {
+    position: relative;
+    float: left;
+    top: -50px;
+    margin-left: 20px;
+}
+
+figure.foto img#ft2 {
+    width: 400px;
+    height: 300px;
+    border: 4px solid #910808;
+}
+
+figure.foto img#ft3 {
+    position: relative;
+    float: left;
+    top: 320px;
+    margin-left: -400px;
+}
+
+figure.foto img#ft3 {
+    width: 400px;
+    height: 300px;
+    border: 4px solid #910808;
+}
+
+figure.foto img#ft4 {
+    position: absolute;
+    float: left;
+    top: 1500px;
+    margin-left: -600px;
+}
+
+figure.foto img#ft4 {
+    width: 600px;
+    height: 400px;
+    border: 4px solid #910808;
+}
+
+figure.foto img#ft5 {
+    position: absolute;
+    float: left;
+    top: 1450px;
+    margin-left: -1150px;
+}
+
+figure.foto img#ft5 {
+    width: 500px;
+    height: 400px;
+    border: 4px solid #910808;
 }

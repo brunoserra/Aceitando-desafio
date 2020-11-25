@@ -1,113 +1,121 @@
-
-body{
-	background-color: black;
-
-}
-div.interface {
-	width:90%;
-	height: 2200px;
-    background-color: #0f0c0c;
-    margin:0.5% 5% 0.5% 5%; 
-    box-shadow:6px 6px 50px red;
-    padding:0%;
-    position:absolute; 
-}
-div.rodape footer{
-    width:500px;
-    height: 80px;
-    margin:2100px 0px 0px 400px; 
-    box-shadow:1px 1px 5px red;
-    position: relative;
-    background: url(../src/eddie1_jpg.jpg);    
-}
-div.rodape footer #face{
-	position:absolute;
-   bottom:0;
-   width:60px;
-   height:50px;
-   margin-left:20px;
-}		
-div.rodape footer #spot{
-	position:absolute;
-   bottom:0;
-   width:70px;
-   height:50px;
-   margin-left:90px;
-}		
-div.rodape footer #twiter{
-	position:absolute;
-   bottom:0;
-   width:70px;
-   height:50px;
-   margin-left:170px;
-}
-div.rodape footer #youtube{
-	position:absolute;
-   bottom:0;
-   width:70px;
-   height:50px;
-   margin-left:250px;
-}
-div.rodape footer #instagran{
-	position:absolute;
-   bottom:0;
-   width:70px;
-   height:50px;
-   margin-left:330px;
-}
-div.rodape footer #site{
-	position:absolute;
-   bottom:0;
-   width:70px;
-   height:50px;
-   margin-left:410px;
-}
-div.interface div.rodape h5{
-	font-size: 15pt;
-	color:#f2f2f2;
-	margin-left:0px;
-	position: relative;
-
-}
-div.rodape h5:hover{
-	background-color:#0d0d0d;
-	transition: 0.5s;
-}
-nav.menu ul li {
-	background-color:#090a0c;
-	color: #870411;
-	float: left;
-	width: 150px;
-	height: 40px;
-	display: inline-block;
-	text-align: center;
-	line-height: 35px;
-	font-size: 18px;
-	padding: 0px;
-	position: relative;
-	font-family: 'MedievalSharp', cursive;
-	
-
-}
-.menu ul li a:hover{
-	color:#b30000;
-	transition: 0.80s;
-}
-.menu ul{
-	padding: 0;
-}
-.menu ul ul{
-	display: none;
-}
-.menu ul li:hover > ul{
-	display: block;}
-
-.menu a {
-	color:#dcdcdc;
-	text-decoration:none;
-	font-family: 'MedievalSharp', cursive;
-}
-
-
-
-	
+ body {
+     background-image: url(../img/corona-4916954_1920.jpg);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ 
+ .interface {
+     width: 90%;
+     height: 3000px;
+     background-image: url(../img/virus-5675422_1920.jpg);
+     margin-left: 5%;
+     margin-right: 5%;
+     box-shadow: 6px 6px 10px red;
+     position: relative;
+ }
+ 
+ div.rodape footer {
+     width: 500px;
+     height: 80px;
+     margin: 2100px 0px 0px 400px;
+     box-shadow: 1px 1px 5px red;
+     position: relative;
+     background: url(../src/eddie1_jpg.jpg);
+ }
+ 
+ div.rodape footer #face {
+     position: absolute;
+     bottom: 0;
+     width: 60px;
+     height: 50px;
+     margin-left: 20px;
+ }
+ 
+ div.rodape footer #spot {
+     position: absolute;
+     bottom: 0;
+     width: 70px;
+     height: 50px;
+     margin-left: 90px;
+ }
+ 
+ div.rodape footer #twiter {
+     position: absolute;
+     bottom: 0;
+     width: 70px;
+     height: 50px;
+     margin-left: 170px;
+ }
+ 
+ div.rodape footer #youtube {
+     position: absolute;
+     bottom: 0;
+     width: 70px;
+     height: 50px;
+     margin-left: 250px;
+ }
+ 
+ div.rodape footer #instagran {
+     position: absolute;
+     bottom: 0;
+     width: 70px;
+     height: 50px;
+     margin-left: 330px;
+ }
+ 
+ div.rodape footer #site {
+     position: absolute;
+     bottom: 0;
+     width: 70px;
+     height: 50px;
+     margin-left: 410px;
+ }
+ 
+ div.interface div.rodape h5 {
+     font-size: 15pt;
+     color: #f2f2f2;
+     margin-left: 0px;
+     position: relative;
+ }
+ 
+ div.rodape h5:hover {
+     background-color: #0d0d0d;
+     transition: 0.5s;
+ }
+ 
+ nav.menu ul li {
+     background-color: #090a0c;
+     color: #870411;
+     float: left;
+     width: 150px;
+     height: 40px;
+     display: inline-block;
+     text-align: center;
+     line-height: 35px;
+     font-size: 18px;
+     padding: 0px;
+     position: relative;
+     font-family: 'MedievalSharp', cursive;
+ }
+ 
+ .menu ul li a:hover {
+     color: #b30000;
+     transition: 0.80s;
+ }
+ 
+ .menu ul {
+     padding: 0;
+ }
+ 
+ .menu ul ul {
+     display: none;
+ }
+ 
+ .menu ul li:hover>ul {
+     display: block;
+ }
+ 
+ .menu a {
+     color: #dcdcdc;
+     text-decoration: none;
+     font-family: 'MedievalSharp', cursive;
+ }
