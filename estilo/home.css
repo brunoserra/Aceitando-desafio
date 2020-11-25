@@ -3,10 +3,6 @@
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     
-    h1 {
-        font-size: 40pt;
-    }
-    
     #container {
         background-image: url(../img/virus-5675422_1920.jpg);
         margin-left: 5%;
@@ -14,6 +10,7 @@
         padding: 5%;
         box-shadow: rgb(7, 5, 5)20px 20px 15px;
         border-radius: 30px;
+        position: relative;
     }
     
     a {
