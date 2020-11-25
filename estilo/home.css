@@ -31,3 +31,15 @@
         justify-content: space-between;
         margin-bottom: 20px;
     }
+    
+    h1 {
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+    }
+    
+    h2 {
+        display: flex;
+        justify-content: center;
+        padding: 5px;
+    }
