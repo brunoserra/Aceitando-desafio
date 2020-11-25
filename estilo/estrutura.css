@@ -85,7 +85,7 @@
  nav.menu ul li {
      background-color: #191b96;
      color: #e2ee37;
-     float: left;
+     float: right;
      width: 150px;
      height: 40px;
      display: inline-block;
@@ -98,7 +98,7 @@
  }
  
  .menu ul li a:hover {
-     color: #f8f660e8;
+     color: #394be7e8;
      transition: 0.80s;
  }
  
@@ -115,7 +115,7 @@
  }
  
  .menu a {
-     color: #dcdcdc;
+     color: #f3f05b;
      text-decoration: none;
      font-family: 'MedievalSharp', cursive;
  }
