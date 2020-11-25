@@ -1,45 +1,49 @@
-    body {
-        background-image: url(../img/corona-4916954_1920.jpg);
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        color: rgba(226, 226, 22, 0.829);
-    }
-    
-    #cabecalho {
-        border: rgba(207, 221, 13, 0.897) 2px solid;
-        border-radius: 20px;
-        padding-left: 50px;
-        margin-bottom: 20px;
-    }
-    
-    #container {
-        background-image: url(../img/virus-5675422_1920.jpg);
-        margin-left: 5%;
-        margin-right: 5%;
-        padding: 5%;
-        box-shadow: rgb(7, 5, 5)20px 20px 20px;
-        border-radius: 50px;
-    }
-    
-    a {
-        color: rgba(230, 219, 71, 0.87);
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        text-decoration: unset;
-    }
-    
-    nav {
-        display: flex;
-        justify-content: space-between;
-        margin-bottom: 20px;
-    }
-    
-    h1 {
-        display: flex;
-        justify-content: center;
-        padding: 10px;
-    }
-    
-    h2 {
-        display: flex;
-        justify-content: center;
-        padding: 5px;
-    }
+body {
+    background-image: url(../img/corona-4916954_1920.jpg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(226, 226, 22, 0.829);
+}
+
+#cabecalho {
+    border: rgba(207, 221, 13, 0.897) 2px solid;
+    border-radius: 20px;
+    padding-left: 50px;
+    margin-bottom: 20px;
+}
+
+#container {
+    background-image: url(../img/virus-5675422_1920.jpg);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    box-shadow: rgb(7, 5, 5)20px 20px 20px;
+    border-radius: 50px;
+}
+
+a {
+    color: rgba(230, 219, 71, 0.87);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: unset;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: left;
+    padding-left: 250px;
+}
+
+h2 {
+    text-align: right;
+    padding-right: 200px;
+}
+
+article#artigo1 section#secao1,
+#secao2 {
+    display: flex;
+    justify-content: space-between;
+}
