@@ -6,7 +6,8 @@
     #cabecalho {
         border: rgba(207, 221, 13, 0.897) 2px solid;
         border-radius: 20px;
-        padding: 50%;
+        padding-left: 50px;
+        margin-bottom: 30px;
     }
     
     #container {
