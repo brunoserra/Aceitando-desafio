@@ -1,21 +1,21 @@
-header.titulos h1,
-h2,
-h3 {
-    width: 300px;
-    position: absolute;
-    color: #800000;
+.titulos h1,
+h2 {
+    width: 200px;
+    color: #e0dd1dea;
     box-shadow: 2px 2px 20px red;
     text-align: center;
     font-family: 'MedievalSharp', cursive;
 }
 
 h1#t1 {
-    top: 60px;
-    margin-left: 100px;
-    font-size: 22pt;
+    top: 80px;
+    margin-left: 500px;
+    font-size: 25pt;
+    position: relative;
 }
 
-header.titulos h1:hover {
+header.titulos h1,
+h2:hover {
     color: #f2f2f2;
     background: url(../src/eddieeye.jpg);
     transition: 0.80s;
@@ -27,29 +27,15 @@ h2#t2 {
     font-size: 18pt;
 }
 
-header.titulos h2:hover {
-    color: #f2f2f2;
-    background: url(../src/eddieeye.jpg);
-    transition: 0.80s;
-    #262626;
-}
-
 h3#t3 {
     top: 180px;
     margin-left: 260px;
     font-size: 16pt;
 }
 
-header.titulos h3:hover {
-    color: #f2f2f2;
-    ;
-    background: url(../src/eddieeye.jpg);
-    transition: 0.80s;
-}
-
 figure.foto img#icone {
     position: relative;
-    float: right;
+    float: left;
     top: 50px;
     margin-right: 60px;
 }
@@ -77,9 +63,9 @@ video.filme {
     position: absolute;
     width: 500px;
     height: 300px;
-    margin-top: 260px;
+    margin-top: 100px;
     margin-left: 20px;
-    margin-right: 50px;
+    margin-right: 200px;
 }
 
 article.artigo {
