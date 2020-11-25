@@ -83,8 +83,8 @@
  }
  
  nav.menu ul li {
-     background-color: #090a0c;
-     color: #870411;
+     background-color: #191b96;
+     color: #e2ee37;
      float: left;
      width: 150px;
      height: 40px;
@@ -98,7 +98,7 @@
  }
  
  .menu ul li a:hover {
-     color: #b30000;
+     color: #f8f660e8;
      transition: 0.80s;
  }
  
