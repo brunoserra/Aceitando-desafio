@@ -42,8 +42,15 @@ h2 {
     padding-right: 200px;
 }
 
-article#artigo1 section#secao1,
-#secao2 {
-    display: flex;
-    justify-content: space-between;
+#artigo1 {
+    background-color: rgb(0, 109, 128);
+    width: 500px;
+    border: 15px solid rgb(128, 119, 0);
+    padding: 30px;
+    margin: 10px;
+}
+
+#video1 {
+    width: 480px;
+    height: 315px;
 }
