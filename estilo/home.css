@@ -1,6 +1,7 @@
     body {
         background-image: url(../img/corona-4916954_1920.jpg);
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgba(226, 226, 22, 0.829);
     }
     
     #cabecalho {
@@ -15,6 +16,10 @@
         margin-left: 5%;
         margin-right: 5%;
         padding: 5%;
-        box-shadow: rgb(7, 5, 5)20px 20px 15px;
-        border-radius: 30px;
+        box-shadow: rgb(7, 5, 5)20px 20px 20px;
+        border-radius: 50px;
+    }
+    
+    a {
+        color: rgba(230, 219, 71, 0.87)
     }
