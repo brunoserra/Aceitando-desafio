@@ -120,3 +120,9 @@ h2 {
     margin-top: -350px;
     padding: 10px;
 }
+
+#rodape {
+    display: flex;
+    background-image: url(../img/alert-4960172_1280.jpg);
+    margin-top: 30px;
+}
