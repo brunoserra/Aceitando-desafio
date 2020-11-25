@@ -3,9 +3,10 @@
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     
-    h1,h2,h3,h4,h5 {
-        font-size: 40pt;
-        color: rgba(255, 238, 0, 0.801);
+    #cabecalho {
+        border: rgba(207, 221, 13, 0.897) 2px solid;
+        border-radius: 20px;
+        padding: 50%;
     }
     
     #container {
@@ -15,29 +16,4 @@
         padding: 5%;
         box-shadow: rgb(7, 5, 5)20px 20px 15px;
         border-radius: 30px;
-    }
-    
-    a {
-        color: rgba(255, 238, 0, 0.801);
-        text-decoration: unset;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-size: 18pt;
-    }
-    
-    #navbar {
-        display: flex;
-        justify-content: space-between;
-        margin-bottom: 5px;
-        margin-left: 20%;
-    }
-    
-    #perfil {
-        width: 40%;
-        padding-left: 65%;
-        padding-top: 5%;
-    }
-    
-    article {
-        font-family: Arial, Helvetica, sans-serif;
-        color: rgba(255, 238, 0, 0.801);
     }
