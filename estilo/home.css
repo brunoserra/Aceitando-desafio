@@ -44,13 +44,22 @@ h2 {
 
 #artigo1 {
     background-color: rgb(0, 109, 128);
-    width: 500px;
+    width: 400px;
     border: 15px solid rgb(128, 119, 0);
     padding: 30px;
     margin: 10px;
 }
 
 #video1 {
-    width: 480px;
+    width: 420px;
     height: 315px;
+}
+
+#artigo2 {
+    background-color: rgb(0, 109, 128);
+    width: 500px;
+    border: 15px solid rgb(128, 119, 0);
+    margin-left: 600px;
+    margin-top: -450px;
+    padding: 10px;
 }
