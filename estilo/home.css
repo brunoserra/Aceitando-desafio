@@ -125,12 +125,13 @@ h2 {
 /*cadastro do email*/
 
 #receber {
+    display: flex;
     background-image: url(../img/connection-4884862_1920.jpg);
-    width: 450px;
-    border: 15px solid rgb(128, 119, 0);
-    margin-left: 200px;
-    margin-top: -350px;
-    padding: 10px;
+    width: 60%;
+    border: 8px solid rgb(128, 119, 0);
+    margin-left: 750px;
+    margin-top: -120px;
+    padding: 5px;
 }
 
 #rodape {
