@@ -56,3 +56,25 @@
     width: 450px;
     height: 350px
 }
+
+#dica1 {
+    margin-right: 600px;
+    margin-top: -500px;
+    padding: 5px;
+}
+
+#mascara {
+    width: 450px;
+    height: 350px
+}
+
+#dicas2 {
+    margin-right: 600px;
+    margin-top: -200px;
+    padding: 5px
+}
+
+#maos {
+    width: 450px;
+    height: 350px
+}
