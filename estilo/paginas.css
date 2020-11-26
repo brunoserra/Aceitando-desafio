@@ -1,4 +1,80 @@
-#cov {
+.cov {
     text-decoration: underline;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#corona {
+    width: 500px;
+    height: 500px;
+}
+
+#portal2 {
+    margin-top: 20px;
+    margin-right: 600px;
+}
+
+#pp {
+    width: 500px;
+    height: 400px;
+}
+
+#saude {
+    margin-left: 600px;
+    margin-top: -150px;
+    padding: 10px;
+}
+
+#site1 {
+    margin-right: 30px;
+    margin-top: -400px;
+    padding: 10px;
+}
+
+#local {
+    width: 450px;
+    height: 350px;
+}
+
+#todos {
+    margin-right: 600px;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+#todos1 {
+    width: 450px;
+    height: 350px;
+}
+
+#vida {
+    margin-left: 600px;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+#vida1 {
+    width: 450px;
+    height: 350px
+}
+
+#dica1 {
+    margin-right: 600px;
+    margin-top: -500px;
+    padding: 5px;
+}
+
+#mascara {
+    width: 450px;
+    height: 350px
+}
+
+#dicas2 {
+    margin-right: 600px;
+    margin-top: -200px;
+    padding: 5px
+}
+
+#maos {
+    width: 450px;
+    height: 350px
 }
