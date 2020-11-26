@@ -1,4 +1,4 @@
-iframe {
-    width: 600px;
-    height: 600px;
+#cov {
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
