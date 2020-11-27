@@ -4,8 +4,8 @@
 }
 
 #corona {
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
 }
 
 #portal2 {
@@ -14,25 +14,25 @@
 }
 
 #pp {
-    width: 500px;
-    height: 400px;
+    width: 400px;
+    height: 350px;
 }
 
 #saude {
-    margin-left: 600px;
-    margin-top: -150px;
-    padding: 10px;
+    margin-left: 450px;
+    margin-top: 50px;
+    padding: 5px;
 }
 
 #site1 {
     margin-right: 30px;
-    margin-top: -400px;
-    padding: 10px;
+    margin-top: -550px;
+    padding: 5px;
 }
 
 #local {
-    width: 450px;
-    height: 350px;
+    width: 380px;
+    height: 380px;
 }
 
 #todos {
