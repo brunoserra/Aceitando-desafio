@@ -114,6 +114,18 @@
         #vacina {
             width: 300px;
         }
+        
+        #artigo5 {
+            width: 400px;
+            border: 5px solid rgb(128, 119, 0);
+            margin-right: 650px;
+            margin-top: -450px;
+            padding: 5px;
+        }
+        
+        #pc {
+            width: 300px;
+        }
         /*cadastro do email*/
         
         #receber {
