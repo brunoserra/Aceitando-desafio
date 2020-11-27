@@ -102,6 +102,18 @@
         #mulher {
             width: 300px;
         }
+        
+        #artigo4 {
+            width: 400px;
+            border: 5px solid rgb(128, 119, 0);
+            margin-left: 950px;
+            margin-top: 80px;
+            padding: 5px;
+        }
+        
+        #vacina {
+            width: 300px;
+        }
         /*cadastro do email*/
         
         #receber {
