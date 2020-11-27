@@ -9,30 +9,31 @@
 }
 
 #portal2 {
-    margin-top: 20px;
-    margin-right: 600px;
+    margin-top: 50px;
+    margin-right: 40px;
+    padding: 5px;
 }
 
 #pp {
     width: 400px;
-    height: 350px;
+    height: 400px;
 }
 
-#saude {
-    margin-left: 450px;
-    margin-top: 50px;
+#ministerio {
+    margin-left: 5px;
+    margin-top: 40px;
     padding: 5px;
 }
 
 #site1 {
-    margin-right: 30px;
-    margin-top: -550px;
+    margin-left: 5px;
+    margin-top: 20px;
     padding: 5px;
 }
 
 #local {
-    width: 380px;
-    height: 380px;
+    width: 400px;
+    height: 400px;
 }
 
 #todos {
@@ -42,39 +43,39 @@
 }
 
 #todos1 {
-    width: 450px;
-    height: 350px;
+    width: 400px;
+    height: 400px;
 }
 
 #vida {
-    margin-left: 600px;
+    margin-right: 40px;
     margin-top: 30px;
     padding: 10px;
 }
 
 #vida1 {
-    width: 450px;
-    height: 350px
+    width: 400px;
+    height: 400px;
 }
 
 #dica1 {
     margin-right: 600px;
-    margin-top: -500px;
+    margin-top: 50px;
     padding: 5px;
 }
 
 #mascara {
-    width: 450px;
-    height: 350px
+    width: 400px;
+    height: 400px;
 }
 
 #dicas2 {
     margin-right: 600px;
-    margin-top: -200px;
+    margin-top: 200px;
     padding: 5px
 }
 
 #maos {
-    width: 450px;
-    height: 350px
+    width: 400px;
+    height: 400px;
 }
