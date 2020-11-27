@@ -57,12 +57,12 @@
         #artigo1 {
             width: 400px;
             border: 5px solid rgb(128, 119, 0);
-            padding: 30px;
-            margin: 10px;
+            margin-top: 10px;
+            padding: 5px;
         }
         
         #video1 {
-            width: 420px;
+            width: 400px;
             height: 315px;
         }
         
@@ -86,16 +86,16 @@
         #artigo3 {
             width: 400px;
             border: 5px solid rgb(128, 119, 0);
-            margin-left: 150px;
+            margin-left: 5px;
             margin-top: 80px;
-            padding: 10px;
+            padding: 5px;
         }
         
         #art {
             width: 400px;
             border: 5px solid rgb(128, 119, 0);
-            margin-left: 850px;
-            margin-top: -500px;
+            margin-left: 1000px;
+            margin-top: -520px;
             padding: 5px;
         }
         
@@ -106,7 +106,7 @@
         #artigo4 {
             width: 400px;
             border: 5px solid rgb(128, 119, 0);
-            margin-left: 950px;
+            margin-left: 1000px;
             margin-top: 80px;
             padding: 5px;
         }
@@ -118,8 +118,8 @@
         #artigo5 {
             width: 400px;
             border: 5px solid rgb(128, 119, 0);
-            margin-right: 650px;
-            margin-top: -450px;
+            margin-right: 450px;
+            margin-top: -500px;
             padding: 5px;
         }
         
